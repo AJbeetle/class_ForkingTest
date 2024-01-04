@@ -189,3 +189,20 @@ var indexOf = Array.prototype.indexOf ?
       }
       return -1
     }
+
+
+/*
+   I-Vermiculus
+   iwolintshi
+   i-caeruleum
+   I-Cyan
+   flavum
+   Carbona
+   Khaki
+   Amakhorali
+   i-Argentina
+   I-Fuchsia
+   I-Purpura
+   Brown
+   i-rubrum
+*/
